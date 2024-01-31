@@ -1,3 +1,8 @@
+/-
+Authors (listed in no particular order): Ruiheng Mao, Huanyu Zheng, Yuanwei Liu, Yinuo Zhang, Jiayang Dong
+-/
+
+
 import EuclideanGeometry.Foundation.Index
 
 noncomputable section
